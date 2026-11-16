@@ -1,6 +1,6 @@
 # Hey, I’m Samuel 👋
 
-### Senior Frontend Engineer building useful tools and thoughtful web experiences.
+### Senior Software Engineer building useful tools and thoughtful web experiences.
 
 I’ve spent 20 years working on the web, from customer-facing checkout flows to internal creative tools for creating and curating promotional media. I enjoy taking ambiguous problems, figuring out what people need, and shaping the frontend experience from first sketch through launch.
 
